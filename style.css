@@ -1,0 +1,19 @@
+html {
+ background-color: black;
+ color: white;
+}
+h1 {
+ font-family: 'Roboto', sans-serif;
+ text-align: center;
+}
+h2 {
+ font-family: 'Black Ops One', cursive;
+ text-align: center;
+}
+p, ul {
+ font-family: 'Roboto Slab', serif;
+}
+a {
+ color: #42a5f5;
+ font-family: 'Roboto';
+}
